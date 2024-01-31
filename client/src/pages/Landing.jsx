@@ -22,6 +22,9 @@ export default function Landing() {
             trends over the past six months. Jobster: Empowering your job hunt
             journey like never before.
           </p>
+          <Link to="/register" className="btn register-link">
+            Register
+          </Link>
           <Link to="/login" className="btn">
             Login/Demo User
           </Link>
